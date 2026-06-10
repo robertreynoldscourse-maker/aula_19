@@ -100,3 +100,7 @@ try:
 except Exception as e:
     print(f'Erro ao calcular as informações... ')
 
+
+########caso o git não queira subir a gente tem que digitar o seguinte comando
+    ## depois de git init sempre digitar
+    ## git pull origin main 
