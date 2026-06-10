@@ -1,0 +1,7 @@
+1) Instalando: pip install python-dotenv
+2) Treinar no python o pd.merge e no workbench a função de juntar
+3) Acessar à o seguinte endereço para pegar dados abertos: https://www.ispdados.rj.gov.br/
+4) estatística de segurança: https://www.ispdados.rj.gov.br/estatistica.html
+   COPIANDO SOMENTE O ENDEREÇO: https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv CLICK DIREITO E SÓ
+5) python -m venv venv
+   source ./venv/Scripts/activate
